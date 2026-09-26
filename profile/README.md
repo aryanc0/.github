@@ -25,7 +25,8 @@ Engineering · Innovation · Technology · Open Source
 
 <br>
 
-`[INSERT IETE HERO IMAGE]`
+`<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e0db3db0-9354-450f-ae22-b3fa11eca81f" />
+`
 <br><sub>Suggested: an abstract dark visual of interconnected circuit patterns, communication networks, and embedded systems converging toward a single point — with room for the IETE identity to sit over it.</sub>
 
 </div>
